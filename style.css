@@ -114,6 +114,18 @@ button {
 	cursor: pointer;
 }
 
+/* SVG Styles */
+.social-links {
+	margin-top: 13px;
+	display: flex;
+	justify-content: center;
+	gap: 16px;
+}
+svg {
+	width: 30px;
+	height: 30px;
+}
+
 /* Footer styles */
 footer {
 	background-color: var(--secondary-color);
